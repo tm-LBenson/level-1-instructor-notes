@@ -1,0 +1,5 @@
+[Start] --> [Declare age = 16]
+          --> [Is age >= 18?]
+              --> [Yes] --> [Display "You are an adult."]
+              --> [No] --> [Display "You are not an adult."]
+          --> [End]

@@ -1,0 +1,6 @@
+[Start] --> [Initialize counter = 1]
+          --> [Counter <= 5?]
+              --> [Yes] --> [Display "Count: ", counter]
+                          --> [Increment counter by 1]
+                          --> [Back to "Counter <= 5?"]
+              --> [No] --> [End]

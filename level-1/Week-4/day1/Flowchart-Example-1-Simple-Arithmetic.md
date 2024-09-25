@@ -1,0 +1,5 @@
+[Start] --> [Declare number1 = 10]
+          --> [Declare number2 = 20]
+          --> [Calculate result = number1 + number2]
+          --> [Display "The sum of ", number1, " and ", number2, " is ", result]
+          --> [End]

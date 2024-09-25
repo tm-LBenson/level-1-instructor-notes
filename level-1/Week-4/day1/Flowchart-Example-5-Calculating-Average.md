@@ -1,0 +1,5 @@
+[Start] --> [Declare sum = 50]
+          --> [Declare count = 10]
+          --> [Calculate average = sum / count]
+          --> [Display "The average is ", average]
+          --> [End]

@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "ba8ab1ecfacf8c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "85999463ded36498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c883163fff28f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "db4ed6e414169ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week-4/day5/Comprehensive-Problem-Example-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f781b12af09718fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "652b42b5ead17034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d339471e2052fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79df96a1f1fb255e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7b67c6df1f427ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f4fc39eefbcc1ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d2818a966355419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a158a39d1271fd41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week-4/day5/Comprehensive-Problem-Example-3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84c04252e50475a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week-4/day5/Comprehensive-Problem-Example-3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c94b426c4d9c2a76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a13f81784aaf226",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week-4/day5/Comprehensive-Problem-Example-3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60d339471e2052fc",
+  "lastOpenFiles": [
+    "Week-4/day5/Day-5.md",
+    "Week-4/day5/Comprehensive-Problem-Example-3.md",
+    "Week-4/day5/Comprehensive-Problem-Example-2.md",
+    "Week-4/day5/Comprehensive-Problem-Example-1.md",
+    "Week-4/day5",
+    "Week-4/week-4.md",
+    "Week-4/day5/Nested-Structure-Example-3-Mixed-Structures.md",
+    "Week-4/day4/Day-4.md",
+    "Week-4/day4/Nested-Structure-Example-2-Nested-Conditionals.md",
+    "Week-4/day4/Nested-Structure-Example-1-Nested-Loops.md",
+    "Week-4/day4",
+    "Week-4/day3/Day-3.md",
+    "Week-4/day3/Loop-Example-3-Do-While-Loop.md",
+    "Week-4/day3/Loop-Example-2-While-Loop.md",
+    "Week-4/day3/Loop-Example-1-For-Loop.md",
+    "Week-4/day2/Day-2.md",
+    "Week-4/day2/Real Example Switch.md",
+    "Untitled.md",
+    "Week-4/day3",
+    "Week-4/day2/Real Example If.md",
+    "Week-4/day2/Real Example Else-If.md",
+    "Week-4/day2",
+    "Week-4/day1",
+    "Week-4/day1/Flowchart-Example-1-Simple-Arithmetic.md",
+    "Week-4/day1/Day-1-Pseudocode.md",
+    "Week-4/day1/Flowchart-Example-5-Calculating-Average.md",
+    "Week-4/day1/Flowchart-Example-4-Boolean-Flag.md",
+    "Week-4/day1/Flowchart-Example-3-Loop-Counting.md",
+    "Week-4/day1/Flowchart-Example-2-Conditional-Logic.md",
+    "Week-4/day1/Example-5-Calculating-Average.md",
+    "Week-4/day1/Example-4-Boolean-Flag.md",
+    "Week-4"
+  ]
+}

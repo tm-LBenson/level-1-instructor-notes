@@ -75,10 +75,6 @@ Flowcharts are visual representations of the steps involved in a program or proc
 - Discuss the importance of flowcharts in simplifying complex processes and improving understanding.
 - Encourage students to use flowcharting as a planning tool before coding.
 
-### Resources
-- [Ligma Drawing Tool](https://www.ligma.com) - Tool we will use to create flowcharts.
-- [Flowchart Tutorial](https://example.com/flowchart-tutorial) - A helpful guide for further learning.
-
 ## Examples of Flowcharts
 Here are flowchart examples to help visualize the pseudocode processes we discussed:
 

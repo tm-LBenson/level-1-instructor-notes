@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "ba8ab1ecfacf8c7c",
+    "id": "d178aa4e6f937b10",
     "type": "split",
     "children": [
       {
-        "id": "e6ef84cc50e00dff",
+        "id": "875403e8babbb19d",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b49c1e838989ff",
+            "id": "dc54309ec88fc8e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week-4/day1/Day-1-Pseudocode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5ac5a65707b1a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f781b12af09718fc",
+    "id": "ac960ce8ca99413a",
     "type": "split",
     "children": [
       {
-        "id": "652b42b5ead17034",
+        "id": "8c8cf96945a834d9",
         "type": "tabs",
         "children": [
           {
-            "id": "60d339471e2052fc",
+            "id": "a436044fee6f2395",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "79df96a1f1fb255e",
+            "id": "9035b7e7fab05a76",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "b7b67c6df1f427ab",
+            "id": "c112073a26d59595",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,20 @@
     "width": 300
   },
   "right": {
-    "id": "7f4fc39eefbcc1ce",
+    "id": "79f72d1146328dc4",
     "type": "split",
     "children": [
       {
-        "id": "6d2818a966355419",
+        "id": "a023785cd940c42f",
         "type": "tabs",
         "children": [
           {
-            "id": "a158a39d1271fd41",
+            "id": "10c096843bc2bb77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +93,19 @@
             }
           },
           {
-            "id": "84c04252e50475a7",
+            "id": "0e950c1e3c5f4221",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c94b426c4d9c2a76",
+            "id": "5ccff54840f8574d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +116,12 @@
             }
           },
           {
-            "id": "9a13f81784aaf226",
+            "id": "78377f7acc5e77a5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -159,43 +142,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5ac5a65707b1a7a",
+  "active": "a436044fee6f2395",
   "lastOpenFiles": [
-    "Week-1/day3/Week 1 Day 3.md",
-    "Week-1/day2/Week 1 Day 2.md",
-    "Week-1/day1/Week 1 Day 1.md",
-    "Week-4/day1/Day-1-Pseudocode.md",
-    "Week-4/week-4.md",
-    "Level 1.md",
-    "Week-1/day5/Week 1 Day 5.md",
-    "Week-1/day4/Week 1 Day 4.md",
-    "Week-1/day5",
-    "Week-1/day4",
-    "Week-1/day3",
-    "Week-1/day2",
-    "Week-1/day1",
-    "Week-1",
-    "Week-4/day5/Comprehensive-Problem-Example-3.md",
-    "Week-4/day5/Day-5.md",
-    "Week-4/day5/Comprehensive-Problem-Example-2.md",
-    "Week-4/day5/Comprehensive-Problem-Example-1.md",
-    "Week-4/day5",
-    "Week-4/day5/Nested-Structure-Example-3-Mixed-Structures.md",
-    "Week-4/day4/Day-4.md",
-    "Week-4/day4/Nested-Structure-Example-2-Nested-Conditionals.md",
-    "Week-4/day4/Nested-Structure-Example-1-Nested-Loops.md",
-    "Week-4/day4",
-    "Week-4/day3/Day-3.md",
-    "Week-4/day3/Loop-Example-3-Do-While-Loop.md",
-    "Week-4/day3/Loop-Example-2-While-Loop.md",
-    "Week-4/day3/Loop-Example-1-For-Loop.md",
-    "Week-4/day2/Day-2.md",
-    "Week-4/day2/Real Example Switch.md",
-    "Week-4/day3",
-    "Week-4/day2/Real Example If.md",
-    "Week-4/day2/Real Example Else-If.md",
-    "Week-4/day2",
-    "Week-4/day1/Flowchart-Example-1-Simple-Arithmetic.md",
-    "Week-4/day1/Flowchart-Example-5-Calculating-Average.md"
+    "Welcome.md"
   ]
 }

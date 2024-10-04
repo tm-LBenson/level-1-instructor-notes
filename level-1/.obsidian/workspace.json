@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md",
+                "file": "Week-1/day5/Week 1 Day 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md",
+                "file": "Week-1/day5/Week 1 Day 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md",
+                "file": "Week-1/day5/Week 1 Day 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-1/day4/Week 1 Day 4.md"
+                "file": "Week-1/day5/Week 1 Day 5.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "b5ac5a65707b1a7a",
   "lastOpenFiles": [
+    "Week-1/day4/Week 1 Day 4.md",
     "Week-1/day3/Week 1 Day 3.md",
     "Week-1/day2/Week 1 Day 2.md",
     "Week-1/day1/Week 1 Day 1.md",
@@ -168,7 +169,6 @@
     "Week-4/week-4.md",
     "Level 1.md",
     "Week-1/day5/Week 1 Day 5.md",
-    "Week-1/day4/Week 1 Day 4.md",
     "Week-1/day5",
     "Week-1/day4",
     "Week-1/day3",

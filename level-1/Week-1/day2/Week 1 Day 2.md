@@ -12,17 +12,17 @@ On the second day, we'll dive deeper into the tools that developers use daily. W
 
 ## Schedule
 
-- **Introduction to Browser Dev Tools (30 hour)**
+- **Introduction to Browser Dev Tools (30 minutes)**
     
     - **What are Dev Tools?** Brief explanation of browser developer tools and their importance in web development.
     - **Live Demonstration:** Visit a popular website, inspect elements, modify the DOM, and observe changes in real-time.
     - **Interactive Exercise:** Students will follow along and modify elements on a website of their choice.
-- **Setting Up and Using the Terminal (15 hour)**
+- **Setting Up and Using the Terminal (15 minutes)**
     
     - **Downloading and Installing Git Bash:** Guide students through the installation of Git Bash on Windows.
     - **Basic Terminal Commands:** Introduce commands for navigating directories, creating and deleting files and folders, and copying and moving files.
     - **Practical Exercises:** Students will practice these commands in real-time, creating a practice directory structure.
-- **Exploring Visual Studio Code (15 hour)**
+- **Exploring Visual Studio Code (15 minutes)**
     
     - **VS Code Setup:** Ensure all students have Visual Studio Code installed and set up from Day 1.
     - **Basic Features and Extensions:** Overview of the interface, installing useful extensions for web development.

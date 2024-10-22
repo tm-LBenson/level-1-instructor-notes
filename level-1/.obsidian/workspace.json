@@ -4,35 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ef84cc50e00dff",
+        "id": "a0245f477ebe37d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b49c1e838989ff",
+            "id": "c2e17860d5bda7c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-4/day1/Day-1-Pseudocode.md",
+                "file": "Week-2/day4/Week 2 Day 4.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Week 2 Day 4"
             }
           },
           {
-            "id": "b5ac5a65707b1a7a",
+            "id": "7cb597fa5f057663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-1/day5/Week 1 Day 5.md",
+                "file": "Students/Tutoring.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tutoring"
+            }
+          },
+          {
+            "id": "a2604c0dd2782658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week-3/day5/Week 3 Day 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 Day 5"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-1/day5/Week 1 Day 5.md",
+                "file": "Week-3/day5/Week 3 Day 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Week 3 Day 5"
             }
           },
           {
@@ -115,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week-1/day5/Week 1 Day 5.md",
+                "file": "Week-3/day5/Week 3 Day 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Week 3 Day 5"
             }
           },
           {
@@ -129,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-1/day5/Week 1 Day 5.md"
-              }
+                "file": "Week-3/day5/Week 3 Day 5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week 3 Day 5"
             }
           }
         ]
@@ -159,43 +191,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5ac5a65707b1a7a",
+  "active": "a2604c0dd2782658",
   "lastOpenFiles": [
-    "Week-1/day4/Week 1 Day 4.md",
-    "Week-1/day3/Week 1 Day 3.md",
-    "Week-1/day2/Week 1 Day 2.md",
-    "Week-1/day1/Week 1 Day 1.md",
-    "Week-4/day1/Day-1-Pseudocode.md",
-    "Week-4/week-4.md",
-    "Level 1.md",
-    "Week-1/day5/Week 1 Day 5.md",
-    "Week-1/day5",
-    "Week-1/day4",
-    "Week-1/day3",
-    "Week-1/day2",
-    "Week-1/day1",
-    "Week-1",
-    "Week-4/day5/Comprehensive-Problem-Example-3.md",
-    "Week-4/day5/Day-5.md",
-    "Week-4/day5/Comprehensive-Problem-Example-2.md",
-    "Week-4/day5/Comprehensive-Problem-Example-1.md",
-    "Week-4/day5",
-    "Week-4/day5/Nested-Structure-Example-3-Mixed-Structures.md",
-    "Week-4/day4/Day-4.md",
-    "Week-4/day4/Nested-Structure-Example-2-Nested-Conditionals.md",
-    "Week-4/day4/Nested-Structure-Example-1-Nested-Loops.md",
-    "Week-4/day4",
-    "Week-4/day3/Day-3.md",
-    "Week-4/day3/Loop-Example-3-Do-While-Loop.md",
-    "Week-4/day3/Loop-Example-2-While-Loop.md",
-    "Week-4/day3/Loop-Example-1-For-Loop.md",
-    "Week-4/day2/Day-2.md",
-    "Week-4/day2/Real Example Switch.md",
-    "Week-4/day3",
-    "Week-4/day2/Real Example If.md",
-    "Week-4/day2/Real Example Else-If.md",
-    "Week-4/day2",
-    "Week-4/day1/Flowchart-Example-1-Simple-Arithmetic.md",
-    "Week-4/day1/Flowchart-Example-5-Calculating-Average.md"
+    "Week-3/day4/Week 3 Day 4.md",
+    "Week-3/day3/Week 3 Day 3.md",
+    "Week-3/day2/Week 3 Day 2.md",
+    "Week-3/day1/Week 3 Day 1.md",
+    "Week-3/day5/Week 3 Day 5.md",
+    "Week-3/day2/Week 2 Day 2.md",
+    "Week-3/day4/Week 2 Day 4.md",
+    "Week-3/day3/Week 2 Day 3.md",
+    "Week-3/day5/Week 2 Day 5.md",
+    "Week-3/day1/Week 2 Day 1.md",
+    "Week-3/day3",
+    "Week-3/day4",
+    "Week-3/day5",
+    "Week-3/day2",
+    "Week-3/day1",
+    "Week-3",
+    "Week-2 - Copy/day5/Week 2 Day 5.md",
+    "Week-2 - Copy/day5",
+    "Week-2 - Copy/day4/Week 2 Day 4.md",
+    "Week-2 - Copy/day4",
+    "Week-2 - Copy/day3/Week 2 Day 3.md",
+    "Week-2 - Copy/day3",
+    "Week-2 - Copy/day2/Week 2 Day 2.md",
+    "Week-2 - Copy/day2",
+    "Week-2 - Copy/day1/Week 2 Day 1.md",
+    "Students/Angelica.md",
+    "Students/Tutoring.md",
+    "Week-2/day4/Week 2 Day 4.md",
+    "Week-2/day3/Week 2 Day 3.md",
+    "Week-2/day2/Week 2 Day 2.md",
+    "Students/Laquita Baker.md",
+    "Students/Hagar.md",
+    "Students/Student Notes.md",
+    "Week-2/day1/Week 2 Day 1.md",
+    "Week 1 Day 1 Assignment.md",
+    "Week-1/day1/Week 1 Day 1.md"
   ]
 }

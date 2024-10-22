@@ -1,0 +1,3 @@
+1. Which panels in Dev Tools will you use to inspect HTML elements and change modify their style properties?
+2. Which panel do you use to inspect network activity? (use this link for the [demo](https://dev-tools-updated.glitch.me/network/getstarted.html "https://dev-tools-updated.glitch.me/network/getstarted.html"))
+3. How does "Throttling to Slow 3G" change the way the page loads? Why would you "Throttle to Slow 3G" using the Dev Tools?

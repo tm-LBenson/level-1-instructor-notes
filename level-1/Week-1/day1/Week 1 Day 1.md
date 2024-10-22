@@ -16,6 +16,7 @@ Today is about welcoming students to the course, introducing them to the virtual
     
     - Overview of the course goals and what to expect.
     - Brief introductions by the instructor and students.
+    - Write down any nicknames or interesting info for later discussion. 
 - **Virtual Classroom Tools Tutorial (30 minutes)**
     
     - Demonstration of how to use the virtual classroom platform.

@@ -12,20 +12,20 @@ Today we will explore Markdown for documentation, utilize GitHub for version con
 
 ## Schedule
 
-- **Introduction to Markdown (30 minutes)**
+- **Introduction to Markdown 
     
     - **What is Markdown?** Brief overview of Markdown and its common uses.
     - **Markdown Syntax:** Using resources like W3Schools, explain basic Markdown syntax including headings, lists, links, images, and code snippets.
-- **GitHub Repository and GitHub.dev (1 hour)**
+- **GitHub Repository and GitHub.dev
     
     - **Creating a GitHub Repository:** Walkthrough of creating a new repository on GitHub.
     - **Coding in the Browser with GitHub.dev:** Demonstrate how to access and use GitHub.dev for online code editing.
     - **Deploying with GitHub Pages:** Guide students through deploying their first webpage using GitHub Pages, explaining how it’s hosted on GitHub's domain.
-- **DNS and Custom Domains (30 minutes)**
+- **DNS and Custom Domains 
     
     - **Introduction to DNS:** High-level explanation of how DNS works.
     - **Setting Up a Custom Domain:** Brief guide on how to link a custom domain to a GitHub Pages site.
-- **Using VS Code with GitHub (1 hour)**
+- **Using VS Code with GitHub 
     
     - **Cloning and Managing Repositories in VS Code:** Demonstrate how to clone a repo and manage GitHub integration.
     - **Common Pitfalls and Troubleshooting:** Intentionally set up a scenario where pushing to GitHub fails due to setup errors. Use this as a teaching moment.

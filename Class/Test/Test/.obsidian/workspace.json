@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "875403e8babbb19d",
+        "id": "88af9be5e9c84085",
         "type": "tabs",
         "children": [
           {
-            "id": "dc54309ec88fc8e3",
+            "id": "6bf3f7078b7838f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -142,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a436044fee6f2395",
+  "active": "6bf3f7078b7838f5",
   "lastOpenFiles": [
+    "Big Blue Button.md",
+    "variable.md",
+    "JavaScript.md",
+    "Class 1 Day.md",
     "Welcome.md"
   ]
 }

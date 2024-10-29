@@ -1,0 +1,8 @@
+- **Day 4: Events and Form Handling**
+  - *Event Handling*
+    - Adding event listeners (`addEventListener`)
+    - Handling form submissions and button clicks
+    - Preventing default form behavior with `event.preventDefault()`
+  - *Practical Integration*
+    - Implementing a calculator: gathering input, processing data, displaying results
+    - Linking JavaScript with Bootstrap components for UI enhancement

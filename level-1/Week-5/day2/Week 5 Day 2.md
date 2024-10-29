@@ -1,0 +1,9 @@
+- **Day 2: Control Structures and User Interaction**
+  - *Conditional Logic*
+    - `if`, `else if`, and `else` statements based on user input
+    - Logical operators (`&&`, `||`, `!`)
+  - *Interactive JavaScript*
+    - Using `prompt()` for input and `alert()` for output
+    - Linking user input with logical conditions to determine outcomes
+  - *Basic Error Handling*
+    - Using `try`, `catch` blocks to manage errors in user inputs

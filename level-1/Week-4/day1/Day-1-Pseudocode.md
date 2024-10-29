@@ -38,12 +38,12 @@ Here are some pseudocode examples to demonstrate basic programming concepts:
 
 
 ## Flowcharting
-Flowcharts are visual representations of the steps involved in a program or process. They use standardized symbols to depict different types of actions or steps in a sequence. Today, we'll learn how to create flowcharts using Ligma, a drawing tool.
+Flowcharts are visual representations of the steps involved in a program or process. They use standardized symbols to depict different types of actions or steps in a sequence. Today, we'll learn how to create flowcharts using Figma, a drawing tool.
 
 ### Objectives
 - Understand the purpose and benefits of flowcharts in programming.
 - Learn the common symbols used in flowcharts.
-- Create a basic flowchart using Ligma.
+- Create a basic flowchart using Figma.
 
 ### Lesson Plan
 
@@ -60,16 +60,16 @@ Flowcharts are visual representations of the steps involved in a program or proc
   - **Arrow:** Shows the flow from one step to another.
   - **Parallelogram:** Used for input and output operations.
 
-#### Using Ligma to Draw Flowcharts
-- **Getting Started with Ligma**
-  - Overview of the Ligma interface and basic features.
+#### Using Figma to Draw Flowcharts
+- **Getting Started with Figma**
+  - Overview of the Figma interface and basic features.
   - How to select and use different symbols.
 - **Drawing a Simple Flowchart**
   - Step-by-step guide on creating a flowchart for a simple pseudocode example (e.g., checking if a number is even or odd).
 
 #### Practical Exercise
 - **Hands-On Activity:**
-  - Students will use Ligma to create a flowchart that represents the pseudocode they wrote in the earlier part of today's lesson.
+  - Students will use Figma to create a flowchart that represents the pseudocode they wrote in the earlier part of today's lesson.
 
 ### Conclusion
 - Discuss the importance of flowcharts in simplifying complex processes and improving understanding.

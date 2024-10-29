@@ -9,3 +9,6 @@
 - **Hands-On Lab:** Students will use the grid system to layout a page and incorporate components like Buttons and Cards for content organization.
 
 **Homework:** Create a landing page using the Bootstrap grid system and multiple components discussed in class.
+
+[[Grid System]] Demo
+[[Advanced Grid]]
